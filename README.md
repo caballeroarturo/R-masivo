@@ -2,6 +2,8 @@
 
 ## :wave: Bienvenid@s
 
+## :wave: Hola
+
 Al finalizar el módulo, serás capaz de obtener información valiosa de una base de datos para alcanzar una mayor comprensión y entendimiento para la toma de decisiones. Podrás utilizar bases de datos obtenidas mediante MySQL y Mongo con el objetivo de realizar limpieza, manipulación y análisis en R. Finalmente, crearás visualizaciones, predicciones y modelaje matemático.
 
 ## :dart: Objetivo
